@@ -5,4 +5,4 @@ Based on *"General Cardiovascular Risk Profile for Use in Primary Care: The Fram
 
 This project was part of an academic curricular unit and promoted learning Rshinny features, critical thinking and other skills necessary for Clinical Decision Support.
 
-**You can test it by running the app on R () and introducing values of your choosing, and creating a report that will be saved wherever you choose. For the second feature, please use XX to exemplify its use.**
+**You can test it by running the app on Rstudio (app_grupoC.r) and introducing values of your choosing, and creating a report that will be saved wherever you choose. For the second feature, please use XX to exemplify its use.**
